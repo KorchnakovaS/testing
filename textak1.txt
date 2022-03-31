@@ -2,3 +2,6 @@ zmeneny obsah
 dalsia zmena od spoluziaka
 nas novy riadok
 
+
+zmena v testing
+
